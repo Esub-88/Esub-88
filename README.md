@@ -1,4 +1,4 @@
-Hi I'm Kyle, an aspiring data analyst
+# Hi I'm Kyle, an aspiring data analyst
 
 Welcome to my data analytics portfolio!  
 This repository serves as a collection of my projects, showcasing my skills across SQL, Python, DAX, Data Cleaning, exploritory analysis, and dashboard building
