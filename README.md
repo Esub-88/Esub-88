@@ -85,6 +85,33 @@ https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000401
 
 ---
 
+## IBM Data Analyst Capstone – Developer Technology Trends & Dashboards  
+**Repository**  
+[https://github.com/Esub-88/ibm-data-analyst-capstone](https://github.com/Esub-88/IBM-data-analysis-capstone-project)
+
+**Tools Used:**  
+- Python (pandas): data cleaning, wrangling, feature engineering  
+- Looker Studio: multi-page dashboard design  
+- Google Sheets: data preparation for geo mapping  
+- Excel: dataset inspection  
+- PowerPoint: final insights presentation  
+
+**Project Overview:**  
+Analyzed a 50,000+ row subset of the Stack Overflow 2023 Developer Survey to explore:  
+- Current technology usage across languages, databases, platforms, and frameworks  
+- Future technology preferences and adoption trends  
+- Global respondent demographics (age, education, location)  
+- Job market demand for key technologies  
+
+Built three interactive Looker Studio dashboards and a final insights presentation summarizing key findings and industry implications.
+
+**Deliverables Included:**  
+- Multi-page dashboard screenshots  
+- Final presentation (PDF + PPTX)  
+- Cleaned datasets used for visualization  
+
+---
+
 More projects coming soon!
 I’m actively expanding my portfolio with new projects involving:
 
@@ -99,5 +126,6 @@ Stay tuned!
 ## Connect with me 
 Linkedin: 
 https://www.linkedin.com/in/kyle-mccallum-9030bb219/
+Feel free to reach out — I’m always open to networking, collaborations, and new opportunities in data analytics.
 GitHub:
 https://github.com/Esub-88
