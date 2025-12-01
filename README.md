@@ -124,8 +124,7 @@ Stay tuned!
 ---
 
 ## Connect with me 
-Linkedin: 
-https://www.linkedin.com/in/kyle-mccallum-9030bb219/
+- Linkedin: https://www.linkedin.com/in/kyle-mccallum-9030bb219/
+- GitHub: https://github.com/Esub-88
 Feel free to reach out — I’m always open to networking, collaborations, and new opportunities in data analytics.
-GitHub:
-https://github.com/Esub-88
+
