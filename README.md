@@ -47,6 +47,44 @@ https://www.kaggle.com/datasets/swaptr/layoffs-2022/data
 
 ---
 
+## Canada Consumer Price Index (CPI) Analysis (2020–2025)
+**Repository**  
+https://github.com/Esub-88/canada-cpi-2020-2025
+
+**Tools Used:**  
+- Python (pandas): data cleaning, wrangling, and feature engineering  
+- SQL Server (T-SQL): YoY inflation calculations, category-level analysis  
+- Power BI: interactive dashboard design, KPIs, bar/line visuals  
+- GitHub: version control, documentation, reproducibility  
+
+**Project Overview:**  
+This end-to-end analytics project examines Canada’s CPI from 2020–2025, using federal inflation data to explore:  
+- Post-COVID inflation surge (2021–2022)  
+- Cooling period across 2023–2025  
+- Category-level inflation volatility (gasoline, energy, food, shelter)  
+- CPI Index movements using the Statistics Canada methodology (2002 = 100)  
+- Year-over-year (YoY) inflation across 14 major consumer categories  
+
+The dashboard includes:  
+- KPI cards (latest YoY inflation, average surge inflation, average cooling inflation)  
+- Full CPI Index line chart with markers identifying surge/cooling periods  
+- Category-level inflation analysis using horizontal bar charts  
+- Category slicer for filtering  
+
+**Files Included:**  
+- `cpi_cleaning.ipynb` — Python data cleaning & transformation  
+- `analysis.sql` — SQL inflation modeling & YoY calculations  
+- `CPI_over_time.csv`, `CPI_summary.csv` — cleaned datasets  
+- `CPI Dashboard.pbix` — interactive Power BI dashboard  
+- `CPI Dashboard.png` / `.pdf` — static dashboard export  
+- `README.md` — full project documentation  
+
+**Dataset Source:**  
+Statistics Canada:  
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000401
+
+---
+
 More projects coming soon!
 I’m actively expanding my portfolio with new projects involving:
 
