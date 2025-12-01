@@ -49,7 +49,7 @@ https://www.kaggle.com/datasets/swaptr/layoffs-2022/data
 
 ## Canada Consumer Price Index (CPI) Analysis (2020–2025)
 **Repository**  
-https://github.com/Esub-88/canada-cpi-2020-2025
+[https://github.com/Esub-88/canada-cpi-2020-2025](https://github.com/Esub-88/Canadian-CPI-2021-2025)
 
 **Tools Used:**  
 - Python (pandas): data cleaning, wrangling, and feature engineering  
